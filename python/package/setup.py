@@ -13,7 +13,7 @@ setup(
   url = 'https://github.com/IBMStreams/streamsx.messagehub',
   keywords = ['streams', 'ibmstreams', 'streaming', 'analytics', 'streaming-analytics', 'messaging', 'messagehub', 'events'],
   classifiers = [
-    'Development Status :: 3 - Alpha',
+    'Development Status :: 7 - Inactive',
     'License :: OSI Approved :: Apache Software License',
     'Programming Language :: Python :: 3',
     'Programming Language :: Python :: 3.5',

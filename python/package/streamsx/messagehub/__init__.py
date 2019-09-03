@@ -69,7 +69,7 @@ a topic and the same application consuming the same topic::
 
 """
 
-__version__='0.6.0'
+__version__='0.6.1'
 
 __all__ = ['subscribe', 'publish']
 from streamsx.messagehub._messagehub import subscribe, publish

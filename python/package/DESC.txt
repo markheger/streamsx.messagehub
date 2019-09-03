@@ -1,6 +1,8 @@
 Overview
 ========
 
+This package is in status '7 - Inactive'. Please use `streamsx.eventstreams <https://pypi.org/project/streamsx.eventstreams/>`_ instead.
+
 Provides functions to read messages from Event Streams as a stream
 and submit tuples to Event Streams as messages.
 
